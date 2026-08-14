@@ -1,3 +1,16 @@
+---
+lab:
+  title: Lab 01 - Deploying and Optimizing ZAVA Retail App using Azure Database for PostgreSQL - Flexible Server
+  description: In this exercise, you'll learn how to monitor the performance of your Azure Database for PostgreSQL - Flexible Server. You'll generate a sample workload and observe key performance metrics such as CPU, memory, and storage utilization in the Azure Portal.
+  duration: 10 minutes
+  level: 500
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Database for PostgreSQL
+    - Azure Portal
+---
+
 # Lab 01 - Deploying and Optimizing ZAVA Retail App using Azure Database for PostgreSQL - Flexible Server
 
 ## Scenario

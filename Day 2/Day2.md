@@ -1,3 +1,15 @@
+---
+lab:
+  title: Lab 02 - End-to-End Migration of ZAVA's On-Prem PostgreSQL to Azure Database for PostgreSQL - Flexible Server (Homogeneous Migration)
+  description: In this task, you will create a new PostgreSQL database that will be the target for the database migration.
+  duration: 20 minutes
+  level: 500
+  islab: true
+  primarytopics:
+    - Azure
+    - Azure Database for PostgreSQL
+---
+
 # Lab 02 - End-to-End Migration of ZAVA's On-Prem PostgreSQL to Azure Database for PostgreSQL - Flexible Server (Homogeneous Migration)
 
 ## Scenario

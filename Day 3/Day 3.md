@@ -1,3 +1,14 @@
+---
+lab:
+  title: Lab 3 - Build Advanced AI Agents with PostgreSQL
+  description: Leading the initiative is Carlos Vega, ZAVA’s CTO, who envisions a future where AI agents augment legal expertise rather than replace it. The technical implementation is entrusted to Elvia Aktins, an application developer responsible for integrating PostgreSQL with Azure OpenAI, enabling AI-powered database extensions, and building the agent logic in Python. In this lab, you step into Elvia’s role—provisioning infrastructure, deploying models, populating legal case data, and incrementally enhancing the ZAVA Legal Agent until it can deliver accurate, context-aware, and explainable legal insights through a combination of semantic search, graph reasoning, and agent-driven intelligence.
+  duration: 10 minutes
+  level: 400
+  islab: true
+  primarytopics:
+    - Azure
+---
+
 # Lab 3 - Build Advanced AI Agents with PostgreSQL
 
 ## Scenario
